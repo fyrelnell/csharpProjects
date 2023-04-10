@@ -10,6 +10,7 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
+                // Girilen 10 sayıdan kaç tanesinin üç basamaklı olduğunu bulma
 
             int v1;
             int sayac = 0;
